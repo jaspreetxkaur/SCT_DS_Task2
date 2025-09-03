@@ -24,4 +24,14 @@ pip install -r requirements.txt
 # open notebooks/eda_titanic.ipynb in Jupyter or upload to Colab
 
 
+📌 Key Insights from Titanic EDA
+Gender: Females had a significantly higher survival rate than males.
+Class: Passengers in 1st class had much better chances of survival compared to those in 2nd and especially 3rd class.
+Age: Children had higher survival rates, while older adults were less likely to survive.
+Fare: Higher fare categories (wealthier passengers) were positively correlated with survival.
+Family Size: Very small families (2–3 people) had better survival odds than those traveling alone or in very large groups.
+Embarked Port: Passengers who embarked from Cherbourg (C) showed higher survival rates compared to Southampton (S) and Queenstown (Q).
+
+
+
 
